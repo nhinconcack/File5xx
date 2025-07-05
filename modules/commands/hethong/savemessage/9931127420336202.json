@@ -1,0 +1,151 @@
+{
+    "100087606834399": [
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".pending all",
+            "time": "20/05/2025 13:11:11",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".",
+            "time": "20/05/2025 13:12:18",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".menu",
+            "time": "20/05/2025 13:12:23",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": "https://raw.githubusercontent.com/LunarKrystal/Lunar-Krystal/refs/heads/main/modules/commands/cmd.js",
+            "time": "20/05/2025 13:12:30",
+            "attachment": [
+                {
+                    "type": "share",
+                    "ID": "ee.mid.$gACNITsobuEqdHZfBQ2W7FJzcPpP_",
+                    "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fraw.githubusercontent.com%2FLunarKrystal%2FLunar-Krystal%2Frefs%2Fheads%2Fmain%2Fmodules%2Fcommands%2Fcmd.js&h=AT17ho8czdvqvI-kw0SK25J9mEa0aS7Y97II_1hD3uhLktLwQ2Xn-v9dsi0HBeu6UgN4nqmHoyghkMTHTE9MFm9fh0smLCBi8TkTvqrzpaB3cQb3pKeczb8q2Zp4e7vXRZDSjKa8UrGI0r8&s=1",
+                    "title": "raw.githubusercontent.com",
+                    "description": "module.exports.config = { name: \"cmd\", version: \"1.0.0\", hasPermssion: 3, credits: \"Mirai Team\", description: \"Quản lý/Kiểm soát toàn bộ module của bot\", commandCategory: \"Admin\", usages: \"[load/unload/loadAll/unloadAll/info] [tên module]\", cooldowns: 2, dependencies: { \"fs-extra\": \"\", \"...",
+                    "source": "raw.githubusercontent.com",
+                    "image": null,
+                    "width": null,
+                    "height": null,
+                    "playable": null,
+                    "duration": null,
+                    "playableUrl": null,
+                    "subattachments": [],
+                    "properties": {},
+                    "facebookUrl": "https://l.facebook.com/l.php?u=https%3A%2F%2Fraw.githubusercontent.com%2FLunarKrystal%2FLunar-Krystal%2Frefs%2Fheads%2Fmain%2Fmodules%2Fcommands%2Fcmd.js&h=AT17ho8czdvqvI-kw0SK25J9mEa0aS7Y97II_1hD3uhLktLwQ2Xn-v9dsi0HBeu6UgN4nqmHoyghkMTHTE9MFm9fh0smLCBi8TkTvqrzpaB3cQb3pKeczb8q2Zp4e7vXRZDSjKa8UrGI0r8&s=1",
+                    "target": {
+                        "__typename": "ExternalUrl",
+                        "id": "226547524203272:ee.mid.$gACNITsobuEqdHZfBQ2W7FJzcPpP_"
+                    },
+                    "styleList": [
+                        "share",
+                        "fallback"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message_reply",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".adc cmd",
+            "time": "20/05/2025 13:12:37",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".rs",
+            "time": "20/05/2025 13:12:42",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".",
+            "time": "20/05/2025 13:13:26",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".cmd load ytb",
+            "time": "20/05/2025 13:13:35",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".ytb nhạc duyệt binh tik",
+            "time": "20/05/2025 13:13:45",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".",
+            "time": "20/05/2025 13:14:12",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": "2",
+            "time": "20/05/2025 13:14:17",
+            "attachment": []
+        },
+        {
+            "type": "message_reply",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": "1",
+            "time": "20/05/2025 13:14:21",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": "@Lý Thểu out con c",
+            "time": "20/05/2025 13:14:29",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".cmd load ytb",
+            "time": "20/05/2025 13:14:38",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "🌪️ ʚʬʬHoangg'x Nhutt'z Rén'x War'zʬʬɞ 🍁",
+            "message": ".ytb nhạc duyệt binh tik",
+            "time": "20/05/2025 13:14:42",
+            "attachment": []
+        }
+    ],
+    "61568443432899": [
+        {
+            "type": "message",
+            "name": "ぴ・　ꔫ Trâm Anhꜝꜝ　ᗢ︒",
+            "message": "⛏️",
+            "time": "20/05/2025 13:46:53",
+            "attachment": []
+        },
+        {
+            "type": "message",
+            "name": "ぴ・　ꔫ Trâm Anhꜝꜝ　ᗢ︒",
+            "message": "Dm",
+            "time": "20/05/2025 13:48:17",
+            "attachment": []
+        }
+    ]
+}
