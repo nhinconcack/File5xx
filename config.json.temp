@@ -14,15 +14,15 @@
     "ACCESSTOKEN": "EAAD6V7os0gcBOwmZAZAfSYzhg1qspaMIXlPZAbgHd0XLbuOYfdzU5cOoGLgmFSKILYNw5uaGVHs5F4LjCGLgwbZBtxAoAZCiDAVKbn4sThgeuoX8i3UZClX0RZAXg5FNZAtdP7KkhO4Ew0e4XJrHgBcciC5Ovf48C9PNDepzbodDQmkDUfZBrfdFJD44EyuvjUpAMoCEdfCS6fQZDZD",
     "FACEBOOK_ADMIN": "https://www.facebook.com/vjetem05?mibextid=wwXIfr&mibextid=wwXIfr",
     "ZALO_ADMIN": "0xxxxxx",
-    "ADMIN_NAME": "Anh ",
-    "BOTNAME": "Anh",
+    "ADMIN_NAME": "Thành",
+    "BOTNAME": "Yunz",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100074764201829",
+        "100083620530593",
         ""
     ],
     "NDH": [
-        "100074764201829"
+        "100083620530593"
     ],
     "DATABASE": {
         "sqlite": {
@@ -31,7 +31,7 @@
     },
     "DESIGN": {
         "Theme": "rainbow",
-        "Admin": "Anh",
+        "Admin": "Thành",
         "Setup": {
             "Theme": "Mày có thể dùng các Theme như: Red and Hacker to enhance your terminal logs."
         }
